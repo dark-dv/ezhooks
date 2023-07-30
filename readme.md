@@ -64,4 +64,4 @@ func main() {
 
 Output:
 
-![Output Showcase Image]([output.png](https://raw.githubusercontent.com/dark-dv/ezhooks/main/documents/output.png)https://raw.githubusercontent.com/dark-dv/ezhooks/main/documents/output.png)
+![Output Showcase Image](https://raw.githubusercontent.com/dark-dv/ezhooks/main/documents/output.png)
